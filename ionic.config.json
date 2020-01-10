@@ -1,5 +1,7 @@
 {
   "name": "demo-cap-build",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
